@@ -3,6 +3,7 @@ public class Hello{
 		System.out.println() ;
 		Emp emp = new Emp() ;
 		System.out.println("临近中午适合学习，因为re") ;
-		asd
+		System.out.println("临近中午适合学习，因为re") ;
+		System.out.println("临近中午适合学习，因为re") ;
 	}
 }
