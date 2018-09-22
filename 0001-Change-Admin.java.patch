@@ -1,0 +1,23 @@
+From 49aacd630679374c470545f41dac661e60751754 Mon Sep 17 00:00:00 2001
+From: mldn <A1754734665@163.com>
+Date: Sat, 22 Sep 2018 15:11:30 +0800
+Subject: [PATCH] Change Admin.java
+
+---
+ Admin.java | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/Admin.java b/Admin.java
+index 6f7f237..ccf1b84 100644
+--- a/Admin.java
++++ b/Admin.java
+@@ -1,4 +1,5 @@
+ import java.util.List ;
+ public class Admin{
+ 	private List<Emp> emps ;
++	private String aid ;
+ }
+\ No newline at end of file
+-- 
+2.19.0.windows.1
+
